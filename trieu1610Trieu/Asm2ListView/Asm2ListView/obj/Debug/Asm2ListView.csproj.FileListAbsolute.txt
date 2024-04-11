@@ -1,0 +1,22 @@
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\bin\Debug\Asm2ListView.exe.config
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\bin\Debug\Asm2ListView.exe
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\bin\Debug\Asm2ListView.pdb
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.csproj.AssemblyReference.cache
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.FLogin.resources
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.FCalculateWater.resources
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.Properties.Resources.resources
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.csproj.GenerateResource.cache
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.csproj.CoreCompileInputs.cache
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.exe
+C:\Users\trung\Documents\C#\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.pdb
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\bin\Debug\Asm2ListView.exe.config
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\bin\Debug\Asm2ListView.exe
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\bin\Debug\Asm2ListView.pdb
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.csproj.AssemblyReference.cache
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.FLogin.resources
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.FCalculateWater.resources
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.Properties.Resources.resources
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.csproj.GenerateResource.cache
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.csproj.CoreCompileInputs.cache
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.exe
+C:\Users\HP Victus\Downloads\Sonhb2221-main\Sonhb2221-main\Asm2ListView\Asm2ListView\obj\Debug\Asm2ListView.pdb
